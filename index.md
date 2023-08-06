@@ -8,6 +8,17 @@ Con este fin, realizaremos diversas tareas a lo largo de este Proyecto Guiado pa
 ## Modelo conceptual Parranderos
 ![](https://github.com/DISC-isis2304-ST/Introduccion-a-SQL/blob/ff4e42e9c76930f18648177404b9a1601e38040c/modelos/parranderos_UML.png?raw=true)
 
+## Requerimientos técnicos
+Requerimientos transversales del proyecto guiado:
+- Java 17
+- Maven 3.8.1
+- Spring 
+- Spring-JPA
+- Spring Thymeleaf
+- Base de datos Oracle
+
+
+
 ## Tareas 
 - **Tarea 1:** [Diseñando el modelo de datos](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea1)
 - **Tarea 2:** [Configuración básica de la aplicación](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea2)
