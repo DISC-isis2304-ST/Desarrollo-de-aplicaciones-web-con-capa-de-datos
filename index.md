@@ -18,6 +18,14 @@ Requerimientos transversales del proyecto guiado:
 - Base de datos Oracle
 
 ## Requerimientos funcionales
+- Registrar bares, bebidas y bebedores
+- Modificar bares, bebidas y bebedores
+- Eliminar bares, bebidas y bebedores
+- Registrar las visitas a un bar
+- Registrar las bebidas que sirve un bar
+- Registrar las bebidas que les gustan a los bebedores
+- Ver la lista de bares, bebidas y bebedores
+- Filtrar los bebedores por su nombre
 
 ## Tareas 
 - **Tarea 1:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
