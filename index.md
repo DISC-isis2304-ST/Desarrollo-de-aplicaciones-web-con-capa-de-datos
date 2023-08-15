@@ -20,16 +20,14 @@ Requerimientos transversales del proyecto guiado:
 
 
 ## Tareas 
-- **Tarea 1:** [Diseñando el modelo de datos](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea1)
-- **Tarea 2:** [Configuración básica de la aplicación](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea2)
-- **Tarea 3:** [Construcción de las entidades del modelo](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea3)
-- **Tarea 4:** [Implementación de las consultas CRUD](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea4)
-- **Tarea 5:** [Construcción del controlador](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea5)
-- **Tarea 6:** [Construcción de la interfaz – Parte 1](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea6)
-- **Tarea 7:** [Construcción de la interfaz – Parte 2](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea7)
-- **Tarea 8:** [Implementación de consultas avanzadas](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea8)
-- **Tarea 9:** [Cambios a los controladores](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea9)
-- **Tarea 10:** [Cambios a la interfaz](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea10)
+- **Tarea 1:** [Configuración básica de la aplicación](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea2)
+- **Tarea 2:** [Construcción de las entidades del modelo](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea3)
+- **Tarea 3:** [Implementación de las consultas CRUD](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea4)
+- **Tarea 4:** [Construcción del controlador](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea5)
+- **Tarea 5:** [Construcción de la interfaz – Parte 1](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea6)
+- **Tarea 6:** [Construcción de la interfaz – Parte 2](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea7)
+- **Tarea 7:** [Implementación de consultas avanzadas](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea8)
+- **Tarea 8:** [Cambios a la interfaz](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea10)
 
 
 
