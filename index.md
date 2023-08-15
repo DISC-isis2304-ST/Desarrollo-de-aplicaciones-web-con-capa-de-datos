@@ -24,8 +24,8 @@ Requerimientos transversales del proyecto guiado:
 - **Tarea 2:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
 - **Tarea 3:** [Implementación de las consultas CRUD](tareas/implementacion-consultas-CRUD.md)
 - **Tarea 4:** [Construcción del controlador](tareas/construccion-de-controladores.md)
-- **Tarea 5:** [Construcción de la interfaz – Parte 1](tareas/construccion-de-la.interfaz-parte1.md)
-- **Tarea 6:** [Construcción de la interfaz – Parte 2](tareas/construccion-de-la.interfaz-parte2.md)
+- **Tarea 5:** [Construcción de la interfaz – Parte 1](tareas/construccion-de-la-interfaz-parte1.md)
+- **Tarea 6:** [Construcción de la interfaz – Parte 2](tareas/construccion-de-la-interfaz-parte2.md)
 - **Tarea 7:** [Implementación de consultas avanzadas](tareas/implementacion-de-consultas-avanzadas.md)
 - **Tarea 8:** [Cambios a la interfaz](tareas/cambios-a-la-interfaz.md)
 
