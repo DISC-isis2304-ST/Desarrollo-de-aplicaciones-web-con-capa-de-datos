@@ -20,8 +20,8 @@ Requerimientos transversales del proyecto guiado:
 
 
 ## Tareas 
-- **Tarea 1:** [Configuración básica de la aplicación](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea2)
-- **Tarea 2:** [Construcción de las entidades del modelo](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea3)
+- **Tarea 1:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
+- **Tarea 2:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
 - **Tarea 3:** [Implementación de las consultas CRUD](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea4)
 - **Tarea 4:** [Construcción del controlador](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea5)
 - **Tarea 5:** [Construcción de la interfaz – Parte 1](https://disc-isis2304-st.github.io/Desarrollo-de-aplicaciones-web-con-capa-de-datos/tareas/tarea6)
