@@ -1,4 +1,4 @@
-# Configuración básica de la aplicación
+# Construcción de las entidades del modelo
 
 ## Introducción
 En esta tarea vamos a comenzar creando las entidades del modelo para nuestra aplicación. Vamos a crear algunas entidades y a aprender como manejar llaves compuestas.
@@ -10,7 +10,7 @@ En esta tarea vamos a comenzar creando las entidades del modelo para nuestra apl
 
 ## Preparación
 
-Si no has seguido el tutorial desde cero, puedes descargarte desde Github la parte anterior de la tarea estando una carpeta vacía llamada TutorialCanciones con la siguiente instrucción:
+Si no has seguido el tutorial desde cero, puedes descargarte desde Github la parte anterior de la tarea estando la carpeta del proyecto con la siguiente instrucción:
 
 ```
   git clone -b ConstruccionEntidadesDelModelo --single-branch http://github.com/MOOC-tutorials/TutorialCancionesFlask.git](https://github.com/DISC-isis2304-ST/Parranderos.git .
