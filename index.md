@@ -17,7 +17,7 @@ Requerimientos transversales del proyecto guiado:
 - Spring Thymeleaf
 - Base de datos Oracle
 
-
+## Requerimientos funcionales
 
 ## Tareas 
 - **Tarea 1:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
