@@ -18,14 +18,68 @@ Requerimientos transversales del proyecto guiado:
 - Base de datos Oracle
 
 ## Requerimientos funcionales
-- Registrar bares, bebidas y bebedores
-- Modificar bares, bebidas y bebedores
-- Eliminar bares, bebidas y bebedores
-- Registrar las visitas a un bar
-- Registrar las bebidas que sirve un bar
-- Registrar las bebidas que les gustan a los bebedores
-- Ver la lista de bares, bebidas y bebedores
-- Filtrar los bebedores por su nombre
+- **RF1 - Registrar bar**
+Los bares tienen nombre, ciudad, presupuesto y cantidad de sedes. Esta operación registra un nuevo bar en la aplicación.
+
+- **RF2 - Registrar bebedor**
+Los bebedores tienen nombre, ciudad y presupuesto. Esta Operación registra un nuevo bebedor en la aplicación.
+
+- **RF3 - Registrar bebida**
+Las bebidas tienen un nombre, grado de alcohol y tipo. Está operación registra una nueva bebida en la aplicación.
+
+- **RF4 - Registrar gustan**
+Los bebedores gustan de las bebidas. Esta operación registra que un bebedor gusta de una bebida.
+
+- **RF5 - Registrar sirven**
+Los bares sirven bebidas en diferentes horarios. Esta operación registra que un bar sirve una bebida.
+
+- **RF6 - Registrar frecuentan**
+Los bebedores frecuentan bares en diferentes horarios y fechas. Esta operación registra que un bebedor frecuenta un bar.
+
+- **RF7 - Modificar un bar**
+Dado un bar que ya ha sido creado, esta operación modifica los atributos diferentes al ID del bar.
+
+- **RF8 - Modificar un bebedor**
+Dado un bebedor que ya ha sido creado, esta operación modifica los atributos diferentes al ID del bebedor.
+
+- **RF9 - Modificar una bebida**
+Dada una bebida que ya ha sido creada, esta operación modifica los atributos diferentes al ID de la bebida.
+
+- **RF10 - Eliminar un bar**
+Elimina un bar dado su ID.
+
+- **RF11 - Eliminar un bebedor**
+Elimina un bebedor dado su ID.
+
+- **RF12 - Eliminar una bebida**
+Elimina una bebida dado su ID.
+
+- **RF13 - Ver la lista de bares**
+Muestra la lista de todos los bares registrados en la aplicación.
+
+- **RF14 - Ver la lista de bebedores**
+Muestra la lista de todos los bebedores registrados en la aplicación.
+
+- **RF15 - Ver la lista de bebidas**
+Muestra la lista de todas las bebidas registradas en la aplicación.
+
+- **RF16 - Información de gustan**
+Muestra la cantidad de bebedores que gustan de bebidas con el mayor grado de alcohol y la cantidad de bebedores que gustan de bebidas con el menor grado de alcohol.
+
+- **RF17 - Información de sirven**
+Muestra la cantidad de bares que sirven bebidas con el mayor grado de alcohol y la cantidad de bares que sirven bebidas con el menor grado de alcohol.
+
+- **RF18 - Información de bebidas**
+Muestra la cantidad de bebidas que hay registradas, el promedio de grado de alcohol de las bebidas, el grado de alcohol de la bebida más alcohólica y el grado de alcohol de la bebida menos alcohólica.
+
+- **RF19 - Filtrar bebedores por nombre**
+Dado una cadena de caracteres, esta operación filtra los bebedores cuyo nombre contenga dicha cadena.
+
+- **RF20 - Filtrar bares por ciudad y bebida**
+Dado una ciudad y un tipo de bebida, esta operación filtra los bares de esa ciudad que sirven ese tipo de bebida.
+
+- **RF21 - Filtrar bebidas por ciudad y grado de alcohol**
+Dado una ciudad, un grado de alcohol mínimo y un grado de alcohol máximo, esta operación filtra las bebidas que se sirven en bares de esa ciudad con un grado de alcohol entre el mínimo y el máximo.
 
 ## Tareas 
 - **Tarea 1:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
