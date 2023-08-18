@@ -12,7 +12,7 @@ En esta tarea vamos a modificar las clases del repositorio para añadir consulta
 Si no has seguido el tutorial desde cero, puedes descargarte desde Github la parte anterior de la tarea estando en la carpeta de la aplicación con la siguiente instrucción:
 
 ```
-  git clone -b ConsultasAvanzadas --single-branch http://github.com/MOOC-tutorials/TutorialCancionesFlask.git](https://github.com/DISC-isis2304-ST/Parranderos.git .
+  git clone -b ConsultasAvanzadas --single-branch https://github.com/DISC-isis2304-ST/Parranderos.git .
 ```
 
 
