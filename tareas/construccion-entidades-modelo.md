@@ -13,7 +13,7 @@ En esta tarea vamos a comenzar creando las entidades del modelo para nuestra apl
 Si no has seguido el tutorial desde cero, puedes descargarte desde Github la parte anterior de la tarea estando la carpeta del proyecto con la siguiente instrucción:
 
 ```
-  git clone -b ConstruccionEntidadesDelModelo --single-branch http://github.com/MOOC-tutorials/TutorialCancionesFlask.git](https://github.com/DISC-isis2304-ST/Parranderos.git .
+  git clone -b ConstruccionEntidadesDelModelo --single-branch https://github.com/DISC-isis2304-ST/Parranderos.git .
 ```
 
 
