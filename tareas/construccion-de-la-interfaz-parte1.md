@@ -11,7 +11,7 @@ En esta tarea vamos a empezar creando una interfaz sencilla usando Thymeleaf con
 Si no has seguido el tutorial desde cero, puedes descargarte desde Github la parte anterior de la tarea estando en la carpeta de la aplicación con la siguiente instrucción:
 
 ```
-  git clone -b ConstruccionDeLaInterfazP1 --single-branch http://github.com/MOOC-tutorials/TutorialCancionesFlask.git](https://github.com/DISC-isis2304-ST/Parranderos.git .
+  git clone -b ConstruccionDeLaInterfazP1 --single-branch https://github.com/DISC-isis2304-ST/Parranderos.git .
 ```
 
 
