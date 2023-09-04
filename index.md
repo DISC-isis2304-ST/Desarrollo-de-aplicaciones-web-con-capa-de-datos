@@ -85,14 +85,15 @@ Dado una ciudad y un tipo de bebida, esta operación filtra los bares de esa ciu
 Dado una ciudad, un grado de alcohol mínimo y un grado de alcohol máximo, esta operación filtra las bebidas que se sirven en bares de esa ciudad con un grado de alcohol entre el mínimo y el máximo.
 
 ## Tareas 
-- **Tarea 1:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
-- **Tarea 2:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
-- **Tarea 3:** [Implementación de las consultas CRUD](tareas/implementacion-consultas-CRUD.md)
-- **Tarea 4:** [Construcción del controlador](tareas/construccion-de-controladores.md)
-- **Tarea 5:** [Construcción de la interfaz – Parte 1](tareas/construccion-de-la-interfaz-parte1.md)
-- **Tarea 6:** [Construcción de la interfaz – Parte 2](tareas/construccion-de-la-interfaz-parte2.md)
-- **Tarea 7:** [Implementación de consultas avanzadas](tareas/implementacion-de-consultas-avanzadas.md)
-- **Tarea 8:** [Cambios a la interfaz](tareas/cambios-a-la-interfaz.md)
+- **Tarea 1:** [Presentación del equipo docente]
+- **Tarea 2:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
+- **Tarea 3:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
+- **Tarea 4:** [Implementación de las consultas CRUD](tareas/implementacion-consultas-CRUD.md)
+- **Tarea 5:** [Construcción del controlador](tareas/construccion-de-controladores.md)
+- **Tarea 6:** [Construcción de la interfaz – Parte 1](tareas/construccion-de-la-interfaz-parte1.md)
+- **Tarea 7:** [Construcción de la interfaz – Parte 2](tareas/construccion-de-la-interfaz-parte2.md)
+- **Tarea 8:** [Implementación de consultas avanzadas](tareas/implementacion-de-consultas-avanzadas.md)
+- **Tarea 9:** [Cambios a la interfaz](tareas/cambios-a-la-interfaz.md)
 
 
 
