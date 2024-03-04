@@ -8,6 +8,11 @@ Con este fin, realizaremos diversas tareas a lo largo de este Proyecto Guiado pa
 ## Modelo conceptual Parranderos
 ![](https://github.com/DISC-isis2304-ST/Introduccion-a-SQL/blob/ff4e42e9c76930f18648177404b9a1601e38040c/modelos/parranderos_UML.png?raw=true)
 
+## Modelo Entidad/Relación
+
+![](https://github.com/DISC-isis2304-ST/Desarrollo-de-aplicaciones-web-con-capa-de-datos/assets/77994638/e05f4d93-1358-4aef-b4cb-b70591ed9a0b)
+
+
 ## Modelo relacional
 ![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/a584a09b5dd85b139fa699dd5083ff9e6f326897/modelos/e_relacion_parranderos.svg)
 
