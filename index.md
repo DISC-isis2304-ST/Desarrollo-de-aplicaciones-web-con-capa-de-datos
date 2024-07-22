@@ -94,7 +94,7 @@ Dado una ciudad, un grado de alcohol mínimo y un grado de alcohol máximo, esta
 - **Tarea 2:** [Configuración básica de la aplicación](tareas/configuracion-basica-aplicacion.md)
 - **Tarea 3:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
 - **Tarea 4:** [Implementación de las consultas CRUD](tareas/implementacion-consultas-CRUD.md)
-- **Tarea 5:** [Construcción del controlador](tareas/construccion-de-controladores.md)
+- **Tarea 5:** [Construcción de controladores](tareas/construccion-de-controladores.md)
 - **Tarea 6:** [Construcción de la interfaz – Parte 1](tareas/construccion-de-la-interfaz-parte1.md)
 - **Tarea 7:** [Construcción de la interfaz – Parte 2](tareas/construccion-de-la-interfaz-parte2.md)
 - **Tarea 8:** [Implementación de consultas avanzadas](tareas/implementacion-de-consultas-avanzadas.md)
