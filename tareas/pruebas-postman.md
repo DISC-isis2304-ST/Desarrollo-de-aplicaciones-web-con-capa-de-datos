@@ -37,7 +37,7 @@ var template = `
         <th>Presupuesto</th>
         <th>Cantidad de Sedes</th>
     </tr>
-    
+    {% raw %}
     {{#each response}}
         <tr>
             <td>{{id}}</td>
@@ -47,6 +47,7 @@ var template = `
             <td>{{cant_sedes}}</td>
         </tr>
     {{/each}}
+    {% endraw %}
 </table>
 `;
  
