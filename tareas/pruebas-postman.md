@@ -15,7 +15,7 @@ Si no has seguido el tutorial desde cero, puedes descargar desde GitHub la parte
 ```
   git clone -b PruebasPostman --single-branch https://github.com/DISC-isis2304-ST/Parranderos.git .
 ```
-##Ayudas
+## Ayudas
 
 El siguiente código HTML te permitirá visualizar los resultados de las pruebas en Postman
 
