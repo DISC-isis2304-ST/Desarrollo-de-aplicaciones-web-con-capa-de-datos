@@ -38,15 +38,15 @@ var template = `
         <th>Cantidad de Sedes</th>
     </tr>
     
-    \{\{#each response\}\}
+    {{#each response}}
         <tr>
-            <td>\{\{id\}\}</td>
-            <td>\{\{nombre\}\}</td>
-            <td>\{\{ciudad\}\}</td>
-            <td>\{\{presupuesto\}\}</td>
-            <td>\{\{cant_sedes\}\}</td>
+            <td>{{id}}</td>
+            <td>{{nombre}}</td>
+            <td>{{ciudad}}</td>
+            <td>{{presupuesto}}</td>
+            <td>{{cant_sedes}}</td>
         </tr>
-    \{\{/each\}\}
+    {{/each}}
 </table>
 `;
  
