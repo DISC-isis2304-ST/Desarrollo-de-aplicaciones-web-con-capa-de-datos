@@ -15,6 +15,47 @@ Si no has seguido el tutorial desde cero, puedes descargar desde GitHub la parte
 ```
   git clone -b PruebasPostman --single-branch https://github.com/DISC-isis2304-ST/Parranderos.git .
 ```
+##Ayudas
+
+El siguiente código HTML te permitirá visualizar los resultados de las pruebas en Postman
+
+```
+var template = `
+<style type="text/css">
+    .tftable {font-size:14px;color:#333333;width:100%;border-width: 1px;border-color: #87ceeb;border-collapse: collapse;}
+    .tftable th {font-size:18px;background-color:#87ceeb;border-width: 1px;padding: 8px;border-style: solid;border-color: #87ceeb;text-align:left;}
+    .tftable tr {background-color:#ffffff;}
+    .tftable td {font-size:14px;border-width: 1px;padding: 8px;border-style: solid;border-color: #87ceeb;}
+    .tftable tr:hover {background-color:#e0ffff;}
+</style>
+ 
+<table class="tftable" border="1">
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Ciudad</th>
+        <th>Presupuesto</th>
+        <th>Cantidad de Sedes</th>
+    </tr>
+    
+    {{#each response}}
+        <tr>
+            <td>{{id}}</td>
+            <td>{{nombre}}</td>
+            <td>{{ciudad}}</td>
+            <td>{{presupuesto}}</td>
+            <td>{{cant_sedes}}</td>
+        </tr>
+    {{/each}}
+</table>
+`;
+ 
+function constructVisualizerPayload() {
+    return {response: pm.response.json()}
+}
+ 
+pm.visualizer.set(template, constructVisualizerPayload());
+```
 
 ## Actividad Sugerida
 
