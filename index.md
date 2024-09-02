@@ -95,7 +95,7 @@ Dado una ciudad, un grado de alcohol mínimo y un grado de alcohol máximo, esta
 - **Tarea 3:** [Construcción de las entidades del modelo](tareas/construccion-entidades-modelo.md)
 - **Tarea 4:** [Implementación de las consultas CRUD](tareas/implementacion-consultas-CRUD.md)
 - **Tarea 5:** [Construcción de controladores](tareas/construccion-de-controladores.md)
-- **Tarea 6:** [Pruebas de Postman](tareas/pruebas-postman.md)
+- **Tarea 6:** [Pruebas de Postman - Parte 1](tareas/pruebas-postman.md)
 - **Tarea 7:** [Implementación de consultas avanzadas](tareas/implementacion-de-consultas-avanzadas.md)
 - **Tarea 8:** [Pruebas de Postman - Parte 2](tareas/pruebas-postman-2.md)
 
