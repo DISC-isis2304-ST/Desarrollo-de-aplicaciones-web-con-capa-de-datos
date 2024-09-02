@@ -28,26 +28,29 @@ var template = `
     .tftable td {font-size:14px;border-width: 1px;padding: 8px;border-style: solid;border-color: #87ceeb;}
     .tftable tr:hover {background-color:#e0ffff;}
 </style>
+{% raw %}
+Máximo grado de alcohol: {{mayorGrado}}
+Menor grado de alcohol: {{menorGrado}}
+Grado promedio de alcohol: {{promedioGrado}}
  
 <table class="tftable" border="1">
     <tr>
         <th>ID</th>
         <th>Nombre</th>
-        <th>Ciudad</th>
-        <th>Presupuesto</th>
-        <th>Cantidad de Sedes</th>
+        <th>Grado Alcohol</th>
+        <th>Tipo</th>
     </tr>
     
-    {{#each response}}
+    {{#each bebidas}}
         <tr>
             <td>{{id}}</td>
             <td>{{nombre}}</td>
-            <td>{{ciudad}}</td>
-            <td>{{presupuesto}}</td>
-            <td>{{cant_sedes}}</td>
+            <td>{{grado_alcohol}}</td>
+            <td>{{tipo.nombre}}</td>
         </tr>
     {{/each}}
 </table>
+{% endraw %}
 `;
  
 function constructVisualizerPayload() {
