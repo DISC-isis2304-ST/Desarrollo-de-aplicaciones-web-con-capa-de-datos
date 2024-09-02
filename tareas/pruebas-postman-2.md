@@ -29,9 +29,9 @@ var template = `
     .tftable tr:hover {background-color:#e0ffff;}
 </style>
 {% raw %}
-Máximo grado de alcohol: {{mayorGrado}}
-Menor grado de alcohol: {{menorGrado}}
-Grado promedio de alcohol: {{promedioGrado}}
+Máximo grado de alcohol: {{response.mayorGrado}}
+Menor grado de alcohol: {{response.menorGrado}}
+Grado promedio de alcohol: {{response.promedioGrado}}
  
 <table class="tftable" border="1">
     <tr>
@@ -41,7 +41,7 @@ Grado promedio de alcohol: {{promedioGrado}}
         <th>Tipo</th>
     </tr>
     
-    {{#each bebidas}}
+    {{#each response.bebidas}}
         <tr>
             <td>{{id}}</td>
             <td>{{nombre}}</td>
